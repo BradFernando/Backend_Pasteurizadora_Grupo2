@@ -1,5 +1,7 @@
 Sistema de Pasteurización
+
 Autor: Bradley Corro, Full Stack
+
 ℹ️ Descripción:
 Este sistema de pasteurización está diseñado para gestionar y controlar el proceso de pasteurización de productos lácteos. Proporciona herramientas para monitorear y regular los parámetros necesarios durante este proceso, asegurando la calidad y seguridad de los productos finales.
 

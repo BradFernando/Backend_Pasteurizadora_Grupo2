@@ -1,6 +1,3 @@
-
-Por supuesto, aquí tienes un ejemplo de un README para tu sistema de pasteurización:
-
 Sistema de Pasteurización
 Autor: Bradley Corro, Full Stack
 
